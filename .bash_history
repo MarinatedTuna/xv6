@@ -456,3 +456,91 @@ cd xv6
 ls
 vim proc.c
 make clean && make qemu-nox
+ls
+cd xv6
+ls
+vim proc.c
+vim sysproc.c
+vim proc.c
+vim usys.S
+vim sysproc.c
+vim proc.c
+cd ..
+ls
+git init
+git status
+cd xv6
+make clean
+cd ..
+ls
+git add .
+git commit -m "new xv6 commit"
+git push
+git push xv6
+git status
+ls
+git add .
+git status
+git commit -m "new xv6 files"
+git remote add origin https://github.com/MarinatedTuna/xv6.git
+git push -u origin master
+ls
+cd xv6
+ls
+git add .
+git commit -m "in xv6"
+git push
+ls
+git status
+git push
+git push -u origin master
+ls
+cd ..
+ls
+git status
+git add xv6
+git commit -m "test"
+git push
+git push -u origin master
+ls
+cd xv6
+ls
+git push
+ls
+git status
+git push -u origin master
+ls
+cd asm.h
+vim asm.h
+ls
+cd xv6
+ls
+cd xv6
+ls
+git status
+git add .
+git commit -m "reupload"
+git push
+ls
+git status
+git add .
+git commit -m "cmon"
+git status
+git push
+ls
+git add asm.h
+ls
+git add .
+git commit -m "push it"
+git push
+git pull
+ls
+git add asm.h
+git commit -m "adsg"
+git push
+ls
+git add .
+git commit -m "sdkjf"
+git push -u origin master
+ls
+vim asm.h
